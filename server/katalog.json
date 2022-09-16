@@ -1,0 +1,70 @@
+[
+	{
+		"id": "el1",
+		"name": "New balance 530",
+		"img":"https://i.ibb.co/6N4WMT1/nb530.jpg",
+		"price": 17000
+	},
+	{
+		"id": "el2",
+		"name": "Forum 84 low",
+		"img":"https://i.ibb.co/X2PDSJY/forum.jpg",
+		"price": 16000
+	},
+	{
+		"id": "el3",
+		"name": "Adidas ozweego celox",
+		"img":"https://i.ibb.co/D8XfBrj/adidas-ozweego.jpg",
+		"price": 14000
+	},
+	{
+		"id": "el4",
+		"name": "Adidas ozelia",
+		"img":"https://i.ibb.co/dknCzdv/H00824.png",
+		"price": 14000
+	},	{
+		"id": "el5",
+		"name": "Adidas ozweego raf simons",
+		"img":"https://i.ibb.co/SxyRn5G/adidas-ozweego-raf-simons.jpg",
+		"price": 36000
+	},	{
+		"id": "el6",
+		"name": "Nike dunk low coast",
+		"img":"https://i.ibb.co/7WVSZHQ/nike-dunk-low-coast-w.png" ,
+		"price": 19000
+	},	{
+		"id": "el7",
+		"name": " Jordan 1 retro low golf chicago ",
+		"img":"https://i.ibb.co/FxPNjxS/jordan-1-retro-low-golf-chicago.jpg",
+		"price": 20000
+	},	{
+		"id": "el8",
+		"name": "Air jordan 1 retro",
+		"img":"https://i.ibb.co/z2y0qXf/air-jordan-1-retro.jpg",
+		"price": 24000
+	},	{
+		"id": "el9",
+		"name": "New balance 327",
+		"img":"https://i.ibb.co/PM2gw1x/images.jpg",
+		"price": 17000
+	},	{
+		"id": "el10",
+		"name": "New balance xc-72",
+		"img":"https://i.ibb.co/TR36ww2/xc-72.jpg",
+		"price": 18000
+	},
+	{
+		"id": "el11",
+		"name": "Reebok bape instapump fury og",
+		"img":"https://i.ibb.co/j5ryxFQ/bape.png",
+		"price": 22000
+	},
+	{
+		"id": "el12",
+		"name": "Adidas campus south park",
+		"img":"https://i.ibb.co/7RJy3xj/GZ9177.jpg",
+		"price": 18000
+	}
+	
+	
+]
